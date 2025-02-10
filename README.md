@@ -6,9 +6,9 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
+- [Features](##features)
+- [Installation](##installation)
+- [Usage](##usage)
 - [Software Architecture and Code Structure](#software-architecture-and-code-structure)
 - [Intensity Profile and Band Extraction Algorithm](#intensity-profile-and-band-extraction-algorithm)
 - [Scientific Applications](#scientific-applications)
